@@ -1,4 +1,4 @@
-# 设计：{{TOPIC_TITLE}}
+# 设计：Endpoint 协处理器
 
 ## 架构
 
